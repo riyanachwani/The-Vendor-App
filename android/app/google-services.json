@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "570370089939",
+    "project_id": "stationary-shop-be13d",
+    "storage_bucket": "stationary-shop-be13d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570370089939:android:c41562dfe4ff6770aa0526",
+        "android_client_info": {
+          "package_name": "com.example.flutter_stationaryshop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0n7ToKixybvwBLdhVJSDEoHGKWHcrIJ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570370089939:android:566dfb6f5fa034bbaa0526",
+        "android_client_info": {
+          "package_name": "com.example.flutter_vendor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0n7ToKixybvwBLdhVJSDEoHGKWHcrIJ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
