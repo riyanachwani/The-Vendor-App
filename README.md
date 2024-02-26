@@ -1,16 +1,37 @@
-# flutter_vendor
+<h1 align="center">
+  <a href="#Vendor App"></a>
+  Vendor App 🛍️
+</h1>
 
-A new Flutter project.
+## `Project Title`
+Vendor App
 
-## Getting Started
+## `Description`
+The Vendor App is specifically tailored to streamline inventory management for vendors associated with Subhash's stationery store. It offers a comprehensive solution with separate logins for each vendor, providing them with exclusive access to inventory information relevant to their respective product categories. Through this app, vendors can efficiently view and manage inventory levels, ensuring optimal stock control and facilitating smooth operations within the store.
 
-This project is a starting point for a Flutter application.
+## `Features`
+- **Individual Vendor Access**: Separate logins for each vendor, providing access to relevant inventory information.
+- **Inventory Management**: Vendors can view inventory levels for their specific product categories.
+- **Real-time Updates**: Receive real-time notifications about low inventory levels, enabling prompt action.
+- **User-friendly Interface**: Intuitive interface for smooth navigation and operation.
+- **Secure Authentication**: Robust authentication measures ensure data security and access control.
 
-A few resources to get you started if this is your first Flutter project:
+## `Prerequisites`
+Ensure you have:
+- A smartphone or tablet device
+- Internet connectivity for initial setup and data synchronization
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## `Tech Stack Used`
+- Flutter (+Dart)
+- Firebase
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## `Installation`
+- Clone the repository: [https://github.com/riyanachwani/The-Vendor-App](https://github.com/riyanachwani/The-Vendor-App)
+- Open the project folder in your preferred IDE.
+- Run the project in your IDE.
+
+OR
+
+- Download the app from [Google Drive](https://drive.google.com/file/d/1-DIzxZUX6MLYm9uUYdbyrNCgk7oQ2fQg/view?usp=drive_link)
+
+**For the Subhash's app, please visit the repository: https://github.com/riyanachwani/The-Stationery-App**
