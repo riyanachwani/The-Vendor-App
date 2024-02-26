@@ -18,6 +18,10 @@ import 'pages/home_page3.dart';
 import 'pages/forgot_password.dart';
 import 'package:permission_handler/permission_handler.dart';
 
+//Email = vendor1@gmail.com and Password = vendor1
+//Email = vendor2@gmail.com and Password = vendor2
+//Email = vendor3@gmail.com and Password = vendor3
+
 final FirestoreService _firestoreService = FirestoreService();
 final NotificationService n = NotificationService();
 final FlutterLocalNotificationsPlugin flutterLocalNotificationsPlugin =
