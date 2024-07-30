@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="#Vendor App"></a>
-  Vendor App 🏬
+ The Vendor App 🏬
 </h1>
 
 ## `Project Title`
