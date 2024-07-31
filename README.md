@@ -4,7 +4,7 @@
 </h1>
 
 ## `Project Title`
-Vendor App
+The Vendor App
 
 ## `Description`
 The Vendor App is specifically tailored to streamline inventory management for vendors associated with Subhash's stationery store. It offers a comprehensive solution with separate logins for each vendor, providing them with exclusive access to inventory information relevant to their respective product categories. Through this app, vendors can efficiently view and manage inventory levels, ensuring optimal stock control and facilitating smooth operations within the store.
@@ -26,7 +26,10 @@ Ensure you have:
 - Firebase
 
 ## `Installation`
-- Clone the repository: [https://github.com/riyanachwani/The-Vendor-App](https://github.com/riyanachwani/The-Vendor-App)
+- Clone the repository:
+```bash
+git clone https://github.com/riyanachwani/The-Vendor-App
+```
 - Open the project folder in your preferred IDE.
 - Run the project in your IDE.
 
