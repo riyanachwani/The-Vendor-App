@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="#Vendor App"></a>
+  <a href="#The-Vendor-App"></a>
  The Vendor App🏬
 </h1>
 
