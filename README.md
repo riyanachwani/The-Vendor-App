@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="#Vendor App"></a>
- The Vendor App 🏬
+ The Vendor App🏬
 </h1>
 
 ## `Project Title`
@@ -37,4 +37,4 @@ OR
 
 - Download the app from [Google Drive](https://drive.google.com/file/d/1-DIzxZUX6MLYm9uUYdbyrNCgk7oQ2fQg/view?usp=drive_link)
 
-**For the Subhash's app, please visit the repository: https://github.com/riyanachwani/The-Stationery-App**
+**For the The Stationery app, please visit the repository: https://github.com/riyanachwani/The-Stationery-App**
